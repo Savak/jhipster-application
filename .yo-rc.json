@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "fr.savak.myapp"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "myapp",
+        "packageName": "fr.savak.myapp",
+        "packageFolder": "fr/savak/myapp",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Memory",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "NWY5ZGQ5MjU0ODRjZmY2ODFhM2M2MDA3ZjVjMjQxOGM1ZDdiNzAzMTEzYTlmZmNhZTIzMGQ2YjAxOTAwZGMxNzE3MjFjYjc0NmQ5NjllYzY3Y2IyMzIyNWRkMTc4Nzc3ZmY5ZjJhMTI1YjA2OTQ2ZWM5OWE0NzE0ZWZhYmRiOWQ=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
